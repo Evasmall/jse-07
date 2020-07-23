@@ -19,9 +19,15 @@
 | ------ |
 | java -jar target/ev-task-manager-1.0.7.jar |
 
-| Terminal commands | Example |
-| ------ | ------ |
-| version - Display program version. | java -jar ev-task-manager-1.0.7.jar version |
-| about - Display developer info. | java -jar ev-task-manager-1.0.7.jar about |
-| help - Display list of terminal commands. | java -jar ev-task-manager-1.0.7.jar help |
-| exit - Terminate console application. | java -jar ev-task-manager-1.0.7.jar exit |
+| Terminal commands | 
+| ------ | 
+| version - Display program version. | 
+| about - Display developer info. | 
+| help - Display list of terminal commands. | 
+| exit - Terminate console application. |
+| project-list - Display list of projects. | 
+| project-create - Create new project by name. | 
+| project-clear - Remove all projects. | 
+| task-list - Display list of tasks. | 
+| task-create - Create new task by name. | 
+| task-clear - Remove all tasks. | 

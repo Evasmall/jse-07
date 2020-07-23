@@ -17,11 +17,11 @@
 
 | Start |
 | ------ |
-| java -jar target/ev-task-manager-1.0.0.jar |
+| java -jar target/ev-task-manager-1.0.7.jar |
 
 | Terminal commands | Example |
 | ------ | ------ |
-| version - Display program version. | java -jar ev-task-manager-1.0.0.jar version |
-| about - Display developer info. | java -jar ev-task-manager-1.0.0.jar about |
-| help - Display list of terminal commands. | java -jar ev-task-manager-1.0.0.jar help |
-| exit - Terminate console application. | java -jar ev-task-manager-1.0.0.jar exit |
+| version - Display program version. | java -jar ev-task-manager-1.0.7.jar version |
+| about - Display developer info. | java -jar ev-task-manager-1.0.7.jar about |
+| help - Display list of terminal commands. | java -jar ev-task-manager-1.0.7.jar help |
+| exit - Terminate console application. | java -jar ev-task-manager-1.0.7.jar exit |
